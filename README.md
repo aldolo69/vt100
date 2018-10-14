@@ -1,4 +1,4 @@
-# VT0
+# VT100
 Lbrary to develop a VT100 terminal
 
 In vt100.h there is the original copyright. I've stripped all the hardware dependent code from vt100.cpp. If you want to use the code on whatever hardware or operating system you have to rewrite hardwaredepcode.cpp. Now the code show the output in the Windows terminal.
