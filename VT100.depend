@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1538802230 source:c:\users\it03281\documents\codeblocks\vt100\main.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	"vt100.h"
+	<string.h>
+	<stdarg.h>
+	<ctype.h>
+	"vt100.h"
+
+1538803828 source:c:\users\it03281\documents\codeblocks\vt100\hardwaredepcode.cpp
+	"hardwaredepcode.h"
+	<iostream>
+
+1538804449 c:\users\it03281\documents\codeblocks\vt100\hardwaredepcode.h
+	<stdint.h>
+	<windows.h>
+	"wincon.h"
+
+1538450067 source:c:\users\it03281\documents\codeblocks\vt100\vt100.c
+	<ctype.h>
+	<math.h>
+	"vt100.h"
+
+1538804678 c:\users\it03281\documents\codeblocks\vt100\vt100.h
+	"hardwaredepcode.h"
+
+1538806725 source:c:\users\it03281\documents\codeblocks\vt100\vt100.cpp
+	<ctype.h>
+	<math.h>
+	<stdlib.h>
+	"vt100.h"
+
+1538806397 source:c:\users\it03281\documents\codeblocks\vt100\demo.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	"vt100.h"
+	<string.h>
+	<stdarg.h>
+	<ctype.h>
+	"vt100.h"
+
